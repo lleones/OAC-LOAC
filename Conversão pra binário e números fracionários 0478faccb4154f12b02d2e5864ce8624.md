@@ -1,6 +1,6 @@
 # Conversão pra binário e números fracionários.
 
-![Captura de tela de 2023-03-16 14-44-28.png](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Captura_de_tela_de_2023-03-16_14-44-28.png)
+![Captura de tela de 2023-03-16 14-44-28.png](Captura_de_tela_de_2023-03-16_14-44-28.png)
 
 Cada bit pode possuir um valor entre 0(zero) ou 1(um) identificando de forma digital a presença ou não de corrente elétrica passando pelo transistor.
 
@@ -16,13 +16,13 @@ Um byte é a junção de 8 bits, agora o babado é do porque que são 8 afinal. 
 
 Não tem mágica, vai dividindo por 2 ate não dar mais e vai olhando os restos de baixo pra cima.
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled.png)
+![Untitled](Untitled.png)
 
 ### Binário → decimal:
 
 Não tem mágica, é so distribuir os valores da lei de formação dos binários. Da direita pra esquerda, cada casa corresponde a um multiplo de 2, com excessão da primeira que começa com o 1.
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## Conversão fracionária:
 
@@ -30,16 +30,16 @@ Não tem mágica, é so distribuir os valores da lei de formação dos binários
 
 A parte inteira faz normal, e a parte fracionária eu uso a forma polinomial com índices negativos.
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 ### Decimal → binário:
 
 A parte inteira faz normal, e a parte fracionaria vai MULTIPLICANDO por 2 e pegando a parte inteira até zerar a parte fracionária.
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled%203.png)
+![Untitled](Untitled%203.png)
 
 ### Extra de conversão divertidinho:
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled%204.png)
+![Untitled](Untitled%204.png)
 
-![Untitled](Conversa%CC%83o%20pra%20bina%CC%81rio%20e%20nu%CC%81meros%20fraciona%CC%81rios%200478faccb4154f12b02d2e5864ce8624/Untitled%205.png)
+![Untitled](Untitled%205.png)
